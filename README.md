@@ -19,7 +19,7 @@ functions/
 1. QAMTxRx.m                                   - Simple 16 QAM Tx/Rx simulation
 2. SingleSineShortSegment.m                    - Spectral analysis of short sinusoid 
 3. TwoSineWavesCloseTogether.m                 - Distinguish between two sine waves
-4 SineWavePlusNoiseWithAndWithoutAveraging.m  - Averaging vs No-Averaging analysis
+4. SineWavePlusNoiseWithAndWithoutAveraging.m  - Averaging vs No-Averaging analysis
 5. TransientComparison.m                       - Transient response of filter bank 
 
 models/
