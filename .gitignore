@@ -1,0 +1,7 @@
+*.mexw64
+*.manifest
+*.autosave
+*~
+*.asv
+*.slxc
+**/slprj
